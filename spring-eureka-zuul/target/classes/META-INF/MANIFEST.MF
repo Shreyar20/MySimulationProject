@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-eureka-zuul
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: mitali
+Implementation-Vendor-Id: com.eureka.zuul
+Build-Jdk: 1.8.0_272
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-eureka-zuul
+Created-By: Maven Integration for Eclipse
+
